@@ -5,7 +5,7 @@ My name is <strong>Junior</strong>, I'm a frontend developer and I'm slowly migr
 ### Technologies I master
 
 <ul>
-<li>Wordpress (full)</li>
+<li>CMS</li>
 <li>HTML</li>
 <li>CSS</li>
 <li>Javascript</li>
